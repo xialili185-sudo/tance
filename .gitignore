@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.secrets/
+.venv/
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+.pytest_cache/
+.DS_Store
+.runtime/
